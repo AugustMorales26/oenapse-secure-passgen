@@ -43,7 +43,7 @@ def show_passwords():
         for service, password in data.items():
             print(f"✅ Servicio: {service}, Contraseña: {password}")
     else:
-        print("No passwords generated yet.")
+        print("🍺 -No se encuentran contraseñas generadas.")
 
 # Menú principal
 while True:
