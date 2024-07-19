@@ -22,7 +22,7 @@ Para clonar el repositorio y comenzar a usar OENAPSE, sigue estos pasos:
 1. **Clona el repositorio:**
 
    ```bash
-   git clone https://github.com/AugustMorales26/oenapse-secure-passgen.git
+   git clone git@github.com:AugustMorales26/oenapse-secure-passgen.git
 
 2. **Accede al directorio del proyecto:**
 
